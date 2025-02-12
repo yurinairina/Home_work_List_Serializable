@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Serialiase</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="adress">адрес</string>
+    <string name="info">информация</string>
+    <string name="tele">телефон</string>
+    <string name="input_name" />
+    <string name="save">сохранить</string>
+    <string name="titul">введите персональные данные</string>
+    <string name="phone">телефон</string>
+    <string name="exsit_text">выход</string>
+    <string name="delete_person_text">delete</string>
+    <string name="do_you_want_delete_person_text">хотите удалить?</string>
+    <string name="yes">да</string>
+    <string name="person_deleted_text">удалить персону</string>
+    <string name="no">нет</string>
+</resources>
