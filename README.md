@@ -18,4 +18,6 @@
 
 Вся функциональность передачи данных между экранами реализуется на основании тематики пройденного занятия.
 
+![2serialis](https://github.com/user-attachments/assets/486dd645-73cb-4e36-8022-53e5e8a1aac4)
+![serialis](https://github.com/user-attachments/assets/232402ba-722a-47bd-b09e-3f69b2780d00)
 
